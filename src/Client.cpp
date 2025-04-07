@@ -2,6 +2,8 @@
 #include "Client.h"
 #include "Transaction.h"
 
+// implamentation of the main library interface
+
 Client::Client() {}
 
 Client::~Client() {}
